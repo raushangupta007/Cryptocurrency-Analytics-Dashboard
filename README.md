@@ -109,8 +109,7 @@ Correlation Insights
 - ✔ Correlation-based comparison
 - ✔ Best & worst performer identification
 - ✔ Clean dark-theme analytical UI
-
---
+  
 
 ### 🛠 Technology Stack
 | Component |	Tool |
